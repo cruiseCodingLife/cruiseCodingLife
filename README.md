@@ -1,2 +1,2 @@
-### HiHi~ I’m Tim 😂
+### HiHi~ I’m Cruise 😂
 ### I’m currently learning C# and javaScript
